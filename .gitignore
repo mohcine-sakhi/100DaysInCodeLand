@@ -1,3 +1,6 @@
-codeland.iml
-codeland/out/*
-codeland/.idea/*
+codeland/week01/week01.iml
+codeland/week01/out/*
+codeland/week01/.idea/*
+codeland/week02/week02.iml
+codeland/week02/out/*
+codeland/week02/.idea/*
