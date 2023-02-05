@@ -304,7 +304,8 @@ public class G {
                 int i = 0;
 
                 while (isPossible && i < people){
-                    // on verifie que la place courante n est pas deja occupee et les places a reserver ne depassent pas la limite
+                    // on verifie que la place courante n est pas deja occupee et les places a reserver
+                    // ne depassent pas la limite
                     if(placeCourante < fin && placeCourante + emptyChairs[i] < chairsNumber){
                         placeCourante += emptyChairs[i] + 1;
                     }else {
